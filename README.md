@@ -1,9 +1,9 @@
 ### UPDATE PYMYSQL :dolphin::snake:
 
-- ##### Utilização da biblioteca PYMYSQL do comando UPDATE
+-  Utilização da biblioteca PYMYSQL do comando UPDATE
 
-- ##### Funcionamento com MYSQL Workbench
+-  Funcionamento com MYSQL Workbench
 
-- ##### Funcionalidade com um Banco de Dados Fictício 
+-  Funcionalidade com um Banco de Dados Fictício 
 
-- ##### Tabela de Clientes e Produtos
+-  Tabela de Clientes e Produtos
